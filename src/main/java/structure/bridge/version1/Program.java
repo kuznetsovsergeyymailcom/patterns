@@ -1,6 +1,6 @@
-package structure.bridge;
+package structure.bridge.version1;
 
-import structure.bridge.interfaces.Developer;
+import structure.bridge.version1.interfaces.Developer;
 
 public abstract class Program {
 

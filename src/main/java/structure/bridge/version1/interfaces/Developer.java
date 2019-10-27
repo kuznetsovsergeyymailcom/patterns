@@ -1,4 +1,4 @@
-package structure.bridge.interfaces;
+package structure.bridge.version1.interfaces;
 
 public interface Developer {
 

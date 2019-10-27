@@ -1,9 +1,9 @@
-package structure.bridge;
+package structure.bridge.version1;
 
-import structure.bridge.impl.BankSystem;
-import structure.bridge.impl.CppDeveloper;
-import structure.bridge.impl.JavaDeveloper;
-import structure.bridge.impl.StockExchange;
+import structure.bridge.version1.impl.BankSystem;
+import structure.bridge.version1.impl.CppDeveloper;
+import structure.bridge.version1.impl.JavaDeveloper;
+import structure.bridge.version1.impl.StockExchange;
 
 public class Main {
 

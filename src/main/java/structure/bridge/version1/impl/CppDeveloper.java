@@ -1,6 +1,6 @@
-package structure.bridge.impl;
+package structure.bridge.version1.impl;
 
-import structure.bridge.interfaces.Developer;
+import structure.bridge.version1.interfaces.Developer;
 
 public class CppDeveloper implements Developer {
     @Override
